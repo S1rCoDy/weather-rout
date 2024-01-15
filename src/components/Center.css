@@ -1,0 +1,51 @@
+.center{
+    background-color: #ffffff;
+    width: 100%;
+    height: 478px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.weather-img{
+    width: 200px;
+    margin-top: 200px;
+    margin-right: 0%;
+}
+
+.info{
+    margin-top: 17%;
+    display: flex;
+}
+
+.temp{
+    margin-right: 60px;
+    margin-top: -30px;
+}
+
+.city{
+    margin-top: 45%;
+    margin-right: 50%;
+}
+
+.details{   
+}
+
+.col{
+}
+
+.humidity-img{
+}
+
+.humidity{
+}
+
+.col-2{
+}
+
+.wind-img{
+}
+
+.wind-speed{
+}
