@@ -23,6 +23,7 @@ h1{
 .search{
     text-align: center;
     padding: 1rem;
+    color: rgba(255, 255, 255, 0.465);
 }
 
 input{
@@ -30,7 +31,7 @@ input{
     font-size: 19px;
     border-radius: 25px;
     border: 1px solid rgba(255,255,255,0.8);
-    background: rgba(255,255,255,0.1);
+    background: rgba(0,0,0,0.2);
     color: white;
 }
 
