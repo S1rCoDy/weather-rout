@@ -70,7 +70,7 @@ function Center() {
                 value={location}
                 onChange={event => setLocation(event.target.value)}
                 onKeyPress={searchLocation}
-                placeholder="Enter Location"
+                placeholder="Поиск"
                 type="text" />
             </div>
             <div className="container">
