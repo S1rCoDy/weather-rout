@@ -88,15 +88,15 @@ function Center() {
                 <div className="bottom">
                     <div className="feels">
                         {data?.main ? <p className="bold">{data.main.feels_like}°C</p> : null}
-                        <p className="desk">Feels like</p>
+                        <p className="desk">По ощущения</p>
                     </div>
                     <div className="humidity">
                         {data?.main ? <p className="bold">{data.main.humidity}%</p> : null}
-                        <p className="desk">Humidity</p>
+                        <p className="desk">Влажность</p>
                     </div>
                     <div className="wind">
                         {data?.wind ? <p className="bold">{data.wind.speed} km/h</p> :null}
-                        <p className="desk">Wind Speed</p>
+                        <p className="desk">Скорость ветра</p>
                     </div>
                 </div>
             </div>
